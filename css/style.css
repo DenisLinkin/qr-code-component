@@ -89,5 +89,5 @@ body {
   line-height: var(--font-line-height);
   letter-spacing: var(--font-letter-spacing);
   text-align: center;
-  color: var(--slate-300);
+  color: var(--slate-500);
 }
